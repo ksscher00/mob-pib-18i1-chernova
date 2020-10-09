@@ -1,1 +1,2 @@
-# mob-pib-18i1-chernova
+It's my repository.
+Chernova K. PIb-18i1
